@@ -6,6 +6,9 @@ over West Africa
 John Smith, University of SomewhereElse
 Edward Cooke, University of Manchester
 
+# Abstract
+Wrote this bit last so i'm making less effort than the start.
+
 # Introduction
 Biomass burning things important for some reason. Magnitude
 and direction unclear what they do see Haywood et al (2000).
