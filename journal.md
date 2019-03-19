@@ -3,8 +3,8 @@ Model-Measurement comparison of biomass burning aerosol
 over West Africa
 
 # Authors
-Edward Cooke
-John Smith
+Edward Cooke, University of Manchester
+John Smith, University of SomewhereElse
 
 # Introduction
 Biomass burning things important for some reason. Magnitude
