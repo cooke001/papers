@@ -15,3 +15,6 @@ spectrometer data (Allan et al 2001).
 #Simulations
 John's box model is consistent with something that i talked
 about above. Growth mechanism, Dominant. Something.
+
+#Further Work
+Feel like moving on to a different discipline, maybe the arts.
