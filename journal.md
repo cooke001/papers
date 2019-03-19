@@ -32,3 +32,6 @@ This is a figure, that is in fact text.
 # Conclusion
 The results meant nothing useful. I've decided to drop out and
 go to do an art history course.
+
+# Author Thanks
+Thanks.
