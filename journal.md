@@ -16,6 +16,10 @@ spectrometer data (Allan et al 2001).
 John's box model is consistent with something that i talked
 about above. Growth mechanism, Dominant. Something.
 
+#Methodology
+We used something to do something. This was made better by 
+not doing it. This was found out previously (Smith et al 2001).
+
 #Experimental field tests
 Did some tests in a field, things happened. Results got.
 
