@@ -35,3 +35,4 @@ go to do an art history course.
 
 # Author Thanks
 Thanks.
+We also acknowledge the funding from BigCompany.
