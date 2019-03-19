@@ -7,5 +7,6 @@ Edward Cooke
 
 #Introduction
 Biomass burning things important for some reason. Magnitude
-and direction unclear what they do. Measurements by us set
+and direction unclear what they do see Haywood et al (2000).
+Measurements by us set
 out to do something.
