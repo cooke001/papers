@@ -6,24 +6,28 @@ over West Africa
 Edward Cooke
 John Smith
 
-#Introduction
+# Introduction
 Biomass burning things important for some reason. Magnitude
 and direction unclear what they do see Haywood et al (2000).
 Measurements by us set out to do something using mass 
 spectrometer data (Allan et al 2001).
 
-#Simulations
+# Simulations
 John's box model is consistent with something that i talked
 about above. Growth mechanism, Dominant. Something.
 
-#Methodology
+# Methodology
 We used something to do something. This was made better by 
 not doing it. This was found out previously (Smith et al 2001).
 
-#Experimental field tests
+# Experimental field tests
 Did some tests in a field, things happened. Results got.
 
-#Further Work
+# Results
+We report there is in fact gas.
+
+
+# Further Work
 Feel like moving on to a different discipline, maybe the arts.
 
 
