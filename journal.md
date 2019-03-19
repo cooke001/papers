@@ -1,5 +1,5 @@
 # Title
-Measurements of biomass burning aerosol
+Aircraft Measurements of biomass burning aerosol
 over West Africa
 
 # Authors
