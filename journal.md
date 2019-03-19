@@ -29,8 +29,6 @@ We report there is in fact gas.
 # Figures
 This is a figure, that is in fact text.
 
-# Further Work
-Feel like moving on to a different discipline, maybe the arts.
-
-
-
+# Conclusion
+The results meant nothing useful. I've decided to drop out and
+go to do an art/history course.
