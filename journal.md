@@ -26,6 +26,8 @@ Did some tests in a field, things happened. Results got.
 # Results
 We report there is in fact gas.
 
+# Figures
+This is a figure, that is in fact text.
 
 # Further Work
 Feel like moving on to a different discipline, maybe the arts.
